@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Job Portal</title>
+
+    <link rel="stylesheet" th:href="@{/css/style.css}">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>💼 Job Portal</h1>
+    <p style="text-align:center;color:#64748b;margin-bottom:30px;">
+        Manage job postings quickly and efficiently.
+    </p>
+
+    <div class="buttons">
+
+        <a th:href="@{/addjob}">
+            <button>Add Job</button>
+        </a>
+
+        <a th:href="@{/viewalljobs}">
+            <button>View All Jobs</button>
+        </a>
+
+    </div>
+
+</div>
+
+</body>
+</html>
