@@ -59,15 +59,17 @@ src
 
 ### Home Page
 
-> Add a screenshot here
+<img width="1316" height="382" alt="image" src="https://github.com/user-attachments/assets/dc00cb6c-962c-4bcd-9dd3-67346b543f54" />
+
 
 ### Add Job
+<img width="732" height="842" alt="image" src="https://github.com/user-attachments/assets/d3d54375-8303-4661-9ca4-eff65688756b" />
 
-> Add a screenshot here
 
 ### View All Jobs
 
-> Add a screenshot here
+<img width="1687" height="802" alt="image" src="https://github.com/user-attachments/assets/604287f2-88e8-4622-8bdf-450d240addcb" />
+
 
 ---
 
